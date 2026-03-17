@@ -1,0 +1,10 @@
+Retail Analysis Project by Rhishika Guragain, Notes:
+
+KPI/ANALYSIS GOALS: 
+
+1. Which region makes the most sales? -west
+2. Which product category is most profitable? -technology
+3. Monthly sales trend? -alot during fall, (october to december), with a spike during march. otherwise pretty consistent at around 150000.
+4. Which segment spends the most?" -Consumer
+
+Columns (SEPERATED BY "		" ): Row ID	Order ID	Order Date	Ship Date	Ship Mode	Customer ID	Customer Name	Segment	Country	City	State	Postal Code	Region	Product ID	Category	Sub-Category	Product Name	Sales	Quantity	Discount	Profit
