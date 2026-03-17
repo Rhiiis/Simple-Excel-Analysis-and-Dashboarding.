@@ -7,7 +7,7 @@ Tools Used:
 - Data Visualization
 
 Objective:
-Analyze retail sales data to identify trends, top-performing regions, and profitable product categories.
+Create an Interactive Dashboard. Analyze retail sales data to identify trends, top-performing regions, and profitable product categories.
 
 Key Analysis:
 - Regional sales performance
